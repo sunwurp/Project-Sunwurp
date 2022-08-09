@@ -1,5 +1,0 @@
-Eğer yeni güncelleme atacaksan uygulamadaki sürümü değiştir örn: 1.0.0.0 ise 1.0.0.1 yap sonra app-version'u 1.0.0.0 ise onuda 1.0.0.1 yap ki güncelleme atabilesin.
-sonra buradaki Sunwurp-Ticket.zip dosyasını sil.
-Bilgisayarından Output ettiğin Sunwurp Ticket.exe dosyasını Arşivle ama ZIP Olarak.
-sonra zip'i Sunwurp-Ticket.zip olarak yeniden adlandır ve bu klasörün içine yükle.
-tebrikler, yeni güncelleme hazır!!!
